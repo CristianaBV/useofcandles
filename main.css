@@ -1,23 +1,26 @@
 *{ 	font-family: sans-serif  ;
-	text-transform: capitalize ;
+	text-transform: none ;
 	line-height: 1.5 ;
 		}
-#main > h3{ font-style: heavy ;  
-			} 
 footer,
 a{ font-size: .75m ;
-		color: pink ;	
+	color: seagreen ;	
 		}
+#main > h3{ font-style: normal ;  
+			} 
 :hover{ background : gray ;
 		}
 nav,
 a{ letter-spacing: -1px ;
 text-align: center ;
-color: pink ;
+color: indianred ;
 font-size: 1em ;
+text-decoration: none ;
+border-bottom: 1px dotted ; 
 		}
 Details { color: red ;  } 
 summary { color: red ; } 
 
 figure { border-bottom-color: black ;
 text-align: center ;  } 
+
