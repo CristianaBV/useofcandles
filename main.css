@@ -1,1 +1,22 @@
-body { color: red; }
+*{ 	font-family: sans-serif  ;
+	text-transform: capitalize ;
+	line-height: 1.5 ;
+		}
+#main > h3{ font-style: heavy ;  
+			} 
+footer,
+a{ font-size: .75m ;
+		color: green ;	
+		}
+:hover{ background : gray ;
+		}
+div,
+a{ letter-spacing: -1px ;
+text-align: center ;
+color: blue ;
+		}
+Details { color: red ;  } 
+summary { color: red ; } 
+
+figure { border-bottom-color: black ;
+text-align: center ;  } 
