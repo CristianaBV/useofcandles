@@ -6,14 +6,14 @@
 			} 
 footer,
 a{ font-size: .75m ;
-		color: green ;	
+		color: pink ;	
 		}
 :hover{ background : gray ;
 		}
 nav,
 a{ letter-spacing: -1px ;
 text-align: center ;
-color: blue ;
+color: pink ;
 font-size: 1em ;
 		}
 Details { color: red ;  } 
