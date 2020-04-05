@@ -1,5 +1,4 @@
 *{ 	font-family: sans-serif  ;
-	text-transform: none ;
 	line-height: 1.5 ;
 		}
 footer,
@@ -10,17 +9,22 @@ a{ font-size: .75m ;
 			} 
 :hover{ background : gray ;
 		}
-nav,
-a{ letter-spacing: -1px ;
-text-align: center ;
-color: indianred ;
+nav{ text-align: center ; 
+		}
+nav a{ letter-spacing: -1px ;
+color: darkseagreen ;
 font-size: 1em ;
 text-decoration: none ;
-border-bottom: 1px dotted ; 
-		}
+border-bottom: 1px dotted ;
+	}
 Details { color: red ;  } 
 summary { color: red ; } 
 
-figure { border-bottom-color: black ;
-text-align: center ;  } 
+figure { background: lightgreen ;
+border: 4 ;
+text-align: center ;  
+} 
+
+IMG{ MARGIN: 25px, 25px ; 
+	} 
 
