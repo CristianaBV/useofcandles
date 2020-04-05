@@ -10,10 +10,11 @@ a{ font-size: .75m ;
 		}
 :hover{ background : gray ;
 		}
-div,
+nav,
 a{ letter-spacing: -1px ;
 text-align: center ;
 color: blue ;
+font-size: 1em ;
 		}
 Details { color: red ;  } 
 summary { color: red ; } 
