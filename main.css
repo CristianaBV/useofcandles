@@ -23,12 +23,9 @@ h3{color: rgb(143,188,143); /* darkseagreen */
 #antiquity {box-sizing:16px;
 Box-shadow: 8px 5px 6px #070 ;
 width:16px;
-padding:10px ;
+padding: 0em 7em 7em #f90 ;
 border:12px ;
 Border-color:rgb(143,188,143) ; /*darkseagreen*/
-display:block-inline ;
-text-align: center ;
-
 }
 
 #modern{overflow: visible ; 
