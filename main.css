@@ -56,9 +56,8 @@ width: 350px ;
 height: 25px ;
 		} 
 
-figure:only-child{ border: 4px groove ;
-Border-color:rgb(143,188,143) ; /*darkseagreen*/
-width: 750px ;
+figure { background: rgb(143,188,143) /* darkseagreen */ ;
+border: 4px groove ;
 } 
 
 
