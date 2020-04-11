@@ -20,16 +20,12 @@ h3{color: rgb(143,188,143); /* darkseagreen */
 :hover{ color: rgb(190, 180, 160) ; /* gray */
 		}
 		
-#antiquity {box-sizing:16px;
-Box-shadow: 8px 5px 6px #070 ;
+#antiquity {box-shadow: 8px 5px 6px #070 ;
 width:550px;
 padding: 0em 7em 7em #f90 ;
-border:12px ;
-Border-color:rgb(143,188,143) ; /*darkseagreen*/
 }
 
-#modern{overflow: visible ; 
-box-shadow: 8px 5px 6px #050 ; 
+#modern{box-shadow: 8px 5px 6px #050 ; 
 width: 550px ;
 padding: 0em 7em 7em #f90 ;
 	}
