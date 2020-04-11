@@ -22,7 +22,7 @@ h3{color: rgb(143,188,143); /* darkseagreen */
 		
 #antiquity {box-sizing:100px;
 Box-shadow: 8px 5px 6px #070 ;
-width:790;
+width:16px;
 padding:10px ;
 border:180px ;
 Border-color:rgb(143,188,143) ; /*darkseagreen*/
@@ -33,7 +33,7 @@ text-align: center ;
 
 #modern{overflow: visible ; 
 box-shadow: 8px 5px 6px #050 ; 
-width: 590px ;
+width: 16px ;
 padding: 0em 7em 7em #f90 ;
 	}
 nav{ text-align: center ; 
