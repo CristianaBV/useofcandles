@@ -20,11 +20,11 @@ h3{color: rgb(143,188,143); /* darkseagreen */
 :hover{ color: rgb(190, 180, 160) ; /* gray */
 		}
 		
-#antiquity {box-sizing:100px;
+#antiquity {box-sizing:16px;
 Box-shadow: 8px 5px 6px #070 ;
 width:16px;
 padding:10px ;
-border:180px ;
+border:12px ;
 Border-color:rgb(143,188,143) ; /*darkseagreen*/
 display:block-inline ;
 text-align: center ;
